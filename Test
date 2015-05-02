@@ -1,0 +1,7 @@
+class bb{
+ 
+ public void getMax(){
+  System.out.println("测试");
+ }
+
+}
